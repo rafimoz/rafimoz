@@ -34,10 +34,6 @@
 
 ###
 
-<img align="right" height="250" src="https://c4.wallpaperflare.com/wallpaper/635/375/791/anime-anime-boys-satoru-gojo-jujutsu-kaisen-blue-eyes-hd-wallpaper-preview.jpg"  />
-
-###
-
 <br clear="both">
 
 <h2 align="center">🛠 Language and tools 🛠</h2>
