@@ -10,7 +10,7 @@
 
 <div align="center">
  
-  🔭 I’m currently working on **A Health Care Mobile Application**
+  🔭 I’m currently working on **A Health Care Application called CareNavi**
   
   💬 Ask me about UI/UX Design, React, Game Development... or anything [here](https://github.com/rafimoz/rafimoz/issues)
   
