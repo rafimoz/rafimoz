@@ -90,8 +90,3 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=rafimoz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
-<h2 align="center">🐍 My Contributions 🐍</h2>
-<img src="https://raw.githubusercontent.com/rafimoz/rafimoz/output/snake.svg" alt="Snake animation" />
-
